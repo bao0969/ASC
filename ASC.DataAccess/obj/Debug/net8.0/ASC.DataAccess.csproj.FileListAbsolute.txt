@@ -1,0 +1,34 @@
+E:\visual studio window code\HK2N3\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
+E:\visual studio window code\HK2N3\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
+E:\visual studio window code\HK2N3\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
+E:\visual studio window code\HK2N3\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
+E:\visual studio window code\HK2N3\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
+E:\visual studio window code\HK2N3\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
+E:\visual studio window code\HK2N3\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio window code\HK2N3\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
+E:\visual studio window code\HK2N3\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
+E:\visual studio window code\HK2N3\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
+E:\visual studio window code\HK2N3\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
+E:\visual studio window code\HK2N3\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
+E:\visual studio window code\HK2N3\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
+E:\visual studio window code\HK2N3\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
+E:\visual studio window code\HK2N3\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
+E:\visual studio window code\HK2N3\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
+E:\visual studio window code\HK2N3\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll

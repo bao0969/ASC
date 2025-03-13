@@ -1,0 +1,38 @@
+E:\visual studio window code\HK2N3\ASC.Business\bin\Debug\net8.0\ASC.Business.deps.json
+E:\visual studio window code\HK2N3\ASC.Business\bin\Debug\net8.0\ASC.Business.dll
+E:\visual studio window code\HK2N3\ASC.Business\bin\Debug\net8.0\ASC.Business.pdb
+E:\visual studio window code\HK2N3\ASC.Business\bin\Debug\net8.0\ASC.DataAccess.dll
+E:\visual studio window code\HK2N3\ASC.Business\bin\Debug\net8.0\ASC.Model.dll
+E:\visual studio window code\HK2N3\ASC.Business\bin\Debug\net8.0\ASC.Utilities.dll
+E:\visual studio window code\HK2N3\ASC.Business\bin\Debug\net8.0\ASC.DataAccess.pdb
+E:\visual studio window code\HK2N3\ASC.Business\bin\Debug\net8.0\ASC.Model.pdb
+E:\visual studio window code\HK2N3\ASC.Business\bin\Debug\net8.0\ASC.Utilities.pdb
+E:\visual studio window code\HK2N3\ASC.Business\obj\Debug\net8.0\ASC.Business.csproj.AssemblyReference.cache
+E:\visual studio window code\HK2N3\ASC.Business\obj\Debug\net8.0\ASC.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio window code\HK2N3\ASC.Business\obj\Debug\net8.0\ASC.Business.AssemblyInfoInputs.cache
+E:\visual studio window code\HK2N3\ASC.Business\obj\Debug\net8.0\ASC.Business.AssemblyInfo.cs
+E:\visual studio window code\HK2N3\ASC.Business\obj\Debug\net8.0\ASC.Business.csproj.CoreCompileInputs.cache
+E:\visual studio window code\HK2N3\ASC.Business\obj\Debug\net8.0\ASC.Busi.A2F239A3.Up2Date
+E:\visual studio window code\HK2N3\ASC.Business\obj\Debug\net8.0\ASC.Business.dll
+E:\visual studio window code\HK2N3\ASC.Business\obj\Debug\net8.0\refint\ASC.Business.dll
+E:\visual studio window code\HK2N3\ASC.Business\obj\Debug\net8.0\ASC.Business.pdb
+E:\visual studio window code\HK2N3\ASC.Business\obj\Debug\net8.0\ref\ASC.Business.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\bin\Debug\net8.0\ASC.Business.deps.json
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\bin\Debug\net8.0\ASC.Business.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\bin\Debug\net8.0\ASC.Business.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\bin\Debug\net8.0\ASC.DataAccess.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\bin\Debug\net8.0\ASC.Model.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\bin\Debug\net8.0\ASC.Utilities.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\bin\Debug\net8.0\ASC.DataAccess.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\bin\Debug\net8.0\ASC.Model.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\obj\Debug\net8.0\ASC.Business.csproj.AssemblyReference.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\obj\Debug\net8.0\ASC.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\obj\Debug\net8.0\ASC.Business.AssemblyInfoInputs.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\obj\Debug\net8.0\ASC.Business.AssemblyInfo.cs
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\obj\Debug\net8.0\ASC.Business.csproj.CoreCompileInputs.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\obj\Debug\net8.0\ASC.Busi.A2F239A3.Up2Date
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\obj\Debug\net8.0\ASC.Business.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\obj\Debug\net8.0\refint\ASC.Business.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\obj\Debug\net8.0\ASC.Business.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.Business\obj\Debug\net8.0\ref\ASC.Business.dll

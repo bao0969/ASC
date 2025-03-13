@@ -1,0 +1,24 @@
+E:\visual studio window code\HK2N3\ASC.Model\bin\Debug\net8.0\ASC.Model.deps.json
+E:\visual studio window code\HK2N3\ASC.Model\bin\Debug\net8.0\ASC.Model.dll
+E:\visual studio window code\HK2N3\ASC.Model\bin\Debug\net8.0\ASC.Model.pdb
+E:\visual studio window code\HK2N3\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.AssemblyReference.cache
+E:\visual studio window code\HK2N3\ASC.Model\obj\Debug\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio window code\HK2N3\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfoInputs.cache
+E:\visual studio window code\HK2N3\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfo.cs
+E:\visual studio window code\HK2N3\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
+E:\visual studio window code\HK2N3\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
+E:\visual studio window code\HK2N3\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
+E:\visual studio window code\HK2N3\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
+E:\visual studio window code\HK2N3\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\bin\Debug\net8.0\ASC.Model.deps.json
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\bin\Debug\net8.0\ASC.Model.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\bin\Debug\net8.0\ASC.Model.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.AssemblyReference.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\obj\Debug\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfoInputs.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfo.cs
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll

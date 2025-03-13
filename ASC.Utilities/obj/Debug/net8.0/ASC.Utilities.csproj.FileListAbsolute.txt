@@ -1,0 +1,24 @@
+E:\visual studio window code\HK2N3\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+E:\visual studio window code\HK2N3\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+E:\visual studio window code\HK2N3\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+E:\visual studio window code\HK2N3\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+E:\visual studio window code\HK2N3\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio window code\HK2N3\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+E:\visual studio window code\HK2N3\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+E:\visual studio window code\HK2N3\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+E:\visual studio window code\HK2N3\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+E:\visual studio window code\HK2N3\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+E:\visual studio window code\HK2N3\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+E:\visual studio window code\HK2N3\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+D:\ASCSolution-main\ASCSolution-main\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
